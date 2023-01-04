@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.container {
+    margin: 22px auto;
+    width: 50%;
+}
+
+.naslov {
+    font-size: 18px;
+    color: #a407a4;
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+.naslov2 {
+    font-size: 16px;
+    color: #a407a4; 
+    padding: 10px 0;
+}
+
+label {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+input {
+    margin-bottom: 4px;
+}
+
+.pokloni {
+    font-weight: bold;
+}
+
+.pokloni p {
+    padding: 4px;
+}
+
+.dugmad input {
+    margin-top: 18px;
+    font-size: 14px;
+    padding: 2px;
+}
+img {
+    width: 40px;
+}
