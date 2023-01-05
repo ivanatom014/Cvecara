@@ -5,13 +5,27 @@
    
 }
 
-.container {
-    margin: 22px auto;
+.slika{
+    float: left;
     width: 50%;
+    background-image: url(./Picture1.jpg);
+    background-size: cover;
+    height: 750px;
 }
 
+.container{
+    float: right;
+    width: 50%;
+    height: 750px;
+    background-color: #f6baf6;
+    padding-left: 250px;
+    padding-top: 70px;
+    
+}
+
+
 .naslov {
-    font-size: 18px;
+    font-size: 20px;
     color: #a407a4;
     font-weight: bold;
     padding: 10px 0;
@@ -42,7 +56,7 @@ input {
 
 .dugmad input {
     margin-top: 18px;
-    font-size: 14px;
+    font-size: 16px;
     padding: 2px;
 }
 img {

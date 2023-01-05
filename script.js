@@ -15,7 +15,7 @@ let spanPoklon3 = document.getElementById("poklon3");
 
 btnIzracunaj.addEventListener("click", () =>{
  let value = inputRuze.value;
- let img = '<img src="ruza-sp.jpg">';
+ let img = '<img src="1111.jpg">';
  for(let i = 0; i <= value.length; i++) {
      if(i > 0) {
          i == value;
@@ -39,7 +39,7 @@ btnIzracunaj.addEventListener("click", () =>{
     
    btnIzracunaj.addEventListener("click", () =>{
     let value = inputGerberi.value;
-    let img = '<img src="gerbera-2.jpg">';
+    let img = '<img src="555.jpg">';
     for(let i = 0; i <= value.length; i++) {
         if(i > 0) {
             i == value;
